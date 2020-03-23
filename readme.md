@@ -1,2 +1,2 @@
 # Git workshop
-this is my first workshop
+This is my first workshop.
